@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\bin\Debug\Moving Objects.exe.config
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\bin\Debug\Moving Objects.exe
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\bin\Debug\Moving Objects.pdb
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving Objects.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving_Objects.Form1.resources
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving_Objects.Properties.Resources.resources
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving Objects.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving Objects.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving Objects.exe
+C:\Users\Dell\Desktop\Game Framework\Moving Objects\obj\Debug\Moving Objects.pdb
